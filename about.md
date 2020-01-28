@@ -3,6 +3,14 @@ title: "About"
 layout: about
 ---
 
-This blog is currently under construction. But hey, I managed to make it this far
-without losing (all) my marbles! I'll set up the details in the following days, until then, 
+Welcome to my blog!
+
+I'll be posting tech blogs, with a focus on data sciency topics. 
+
+Not sure what else to put here. I'll figure it out eventually.
+
+This isn't my final form.
+
 ¯\\_( ͡° ͜ʖ ͡°)_/¯
+
+TODO: Proofreading

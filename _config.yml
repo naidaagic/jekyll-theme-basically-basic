@@ -78,7 +78,7 @@ exclude:
 collections:
   shorts:
     output: true
-    permalink: /:shorts/:path/
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:

@@ -76,9 +76,9 @@ exclude:
 
   # Collections
 collections:
-  recipes:
+  shorts:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:shorts/:path/
 
 # Front Matter Defaults
 defaults:
@@ -91,8 +91,8 @@ defaults:
       read_time: true
   # _recipes
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_shorts"
+      type: shorts
     values:
       layout: post
       read_time: true

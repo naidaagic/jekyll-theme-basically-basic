@@ -30,7 +30,7 @@
       // "summary": "Researching and developing solutions for NLP problems, which involve building word embeddings and solving categorization problems",
       "highlights": [
         "Researching and developing solutions for NLP problems, which involve building word embeddings and solving categorization problems",
-        
+        "Researching new ways to assess quality of our word embeddings"
       ]
     },
     {
@@ -40,8 +40,9 @@
       "endDate": "November 2019",
       // "summary": "Researching and developing solutions for NLP problems, which involve building word embeddings and solving categorization problems",
       "highlights": [
-        "Researching and developing solutions for NLP problems, which involve deep learning and statistical models",
-        "Preparing and preprocessing large datasets",
+        "Researching and developing solutions for NLP problems such as sentiment analysis and opinion mining, which involve deep learning and statistical models",
+        "Improving existing NLP solutions",
+        "Preparing, analysing, and preprocessing large datasets",
         "Utilize web scraping techniques to extract and organize data",
         "Developing software for data marking",
         "Writing RESTful services for said solutions",
@@ -54,6 +55,11 @@
       "startDate": "April 2018",
       "endDate": "July 2018",
       // "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment."
+      "highlights": [
+        "Advanced Python programming",
+        "Introduction to NLP problems",
+        "Introduction to agile methodologies",
+      ] 
     }
   ],
   "volunteer": [
@@ -89,6 +95,8 @@
         "Deep learning",
         "NLP",
         "Word embeddings",
+        "Sentiment analysis",
+        "Opinion mining",
         "Python",
         "Tensorflow",
         "Keras",

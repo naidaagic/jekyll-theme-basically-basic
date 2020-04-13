@@ -46,7 +46,7 @@ Understanding the problem and the data that it requires is important. For certai
  A lot of problems can occur while trying to collect data, like:
 
   * Unavailable data
-  * Redundant data (duplicate data)
+  * <pre> Redundant data </pre> (duplicate data)
   * Incomplete data
   * Old data; it hasn't been updated...
 
